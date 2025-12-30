@@ -1,0 +1,6 @@
+agent:
+  name: pipeline_agent
+  model: gemini-3
+  instruction: |
+    This agent processes text through multiple steps.
+    It demonstrates agent pipeline behavior.
